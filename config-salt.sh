@@ -3,3 +3,4 @@ wget https://raw.githubusercontent.com/dsoultanis/salt-bootstrap/develop/files/s
 wget https://raw.githubusercontent.com/dsoultanis/salt-bootstrap/develop/files/glusterfs.py -O /usr/lib/python2.7/dist-packages/salt/modules/glusterfs.py
 wget https://raw.githubusercontent.com/dsoultanis/salt-bootstrap/develop/files/minion.conf -O /etc/salt/minion
 service salt-minion restart
+
